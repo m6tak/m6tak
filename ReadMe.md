@@ -22,24 +22,24 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
-<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.beyond.pl%2Fen%2Fservices%2Fmicrosoft-azure-stack-hci-cloud%2F&psig=AOvVaw1vRPBWq04ZGdKvG_pUZ2-U&ust=1646546736466000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjqiN2mrvYCFQAAAAAdAAAAABAD"> 
+<img height=60px src="https://www.beyond.pl/wp-content/webp-express/webp-images/uploads/2021/03/Azure-logo.png.webp"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>.NET 6</center></b></span> 
-<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpl.m.wikipedia.org%2Fwiki%2FPlik%3A.NET_Core_Logo.svg&psig=AOvVaw0jV8geR_-CY4GMmTENG8PE&ust=1646546790167000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiPmvamrvYCFQAAAAAdAAAAABAD"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
-<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplugins.jetbrains.com%2Fplugin%2F9212-flutter&psig=AOvVaw0D47Cmhi-csOMOx3PcEb22&ust=1646546812627000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCUmYGnrvYCFQAAAAAdAAAAABAb"> 
+<img height=60px src="https://pagepro.co/blog/wp-content/uploads/2020/06/flutter-logo-sharing.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Dart</center></b></span> 
-<img height=65px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fswansoftwaresolutions.com%2Fa-programming-language-called-dart-what-is-it-and-how-is-it-used%2F&psig=AOvVaw1cc2-llswyhbpm5fxdkHmI&ust=1646546855651000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiD8pWnrvYCFQAAAAAdAAAAABAD"> 
+<img height=65px src="https://swansoftwaresolutions.com/wp-content/uploads/2020/02/08.20.20-What-is-Dart-and-how-is-it-used.jpg"> 
 </td>
   
 <td align="center" width="20%">
@@ -56,12 +56,12 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>SQLServer</center></b></span> 
-<img height=65px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolidexpert.com%2Fmicrosoft-sql-server-standard-nie-bedzie-dostarczany-w-ramach-licencji-solidworks-pdm-professional%2F&psig=AOvVaw34WhZ2BHeR1fnClwtKOTUn&ust=1646546895433000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjLh6inrvYCFQAAAAAdAAAAABAD"> 
+<img height=65px src="https://solidexpert.com/wp-content/uploads/2019/09/logo-microsoft-sql-server-595x3350.jpg"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>PostgreSQL</center></b></span> 
-<img height=65px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fpostgresql%2Freviews&psig=AOvVaw3lx9mNDaVxwoZpHfsyb2Dg&ust=1646546920497000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCVh7SnrvYCFQAAAAAdAAAAABAD"> 
+<img height=65px src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_251be2af3ae607c45c14e816eaa1cf41/postgresql.png"> 
 </td>
   
 <td align="center" width="20%">
