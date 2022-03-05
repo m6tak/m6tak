@@ -22,24 +22,24 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Azure</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.beyond.pl%2Fen%2Fservices%2Fmicrosoft-azure-stack-hci-cloud%2F&psig=AOvVaw1vRPBWq04ZGdKvG_pUZ2-U&ust=1646546736466000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjqiN2mrvYCFQAAAAAdAAAAABAD"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>.NET 6</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpl.m.wikipedia.org%2Fwiki%2FPlik%3A.NET_Core_Logo.svg&psig=AOvVaw0jV8geR_-CY4GMmTENG8PE&ust=1646546790167000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiPmvamrvYCFQAAAAAdAAAAABAD"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplugins.jetbrains.com%2Fplugin%2F9212-flutter&psig=AOvVaw0D47Cmhi-csOMOx3PcEb22&ust=1646546812627000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCUmYGnrvYCFQAAAAAdAAAAABAb"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Dart</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<img height=65px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fswansoftwaresolutions.com%2Fa-programming-language-called-dart-what-is-it-and-how-is-it-used%2F&psig=AOvVaw1cc2-llswyhbpm5fxdkHmI&ust=1646546855651000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiD8pWnrvYCFQAAAAAdAAAAABAD"> 
 </td>
   
 <td align="center" width="20%">
@@ -56,12 +56,12 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>SQLServer</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<img height=65px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolidexpert.com%2Fmicrosoft-sql-server-standard-nie-bedzie-dostarczany-w-ramach-licencji-solidworks-pdm-professional%2F&psig=AOvVaw34WhZ2BHeR1fnClwtKOTUn&ust=1646546895433000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjLh6inrvYCFQAAAAAdAAAAABAD"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>PostgreSQL</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<img height=65px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fpostgresql%2Freviews&psig=AOvVaw3lx9mNDaVxwoZpHfsyb2Dg&ust=1646546920497000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCVh7SnrvYCFQAAAAAdAAAAABAD"> 
 </td>
   
 <td align="center" width="20%">
