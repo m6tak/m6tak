@@ -1,11 +1,11 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Michał Szóstak](https://www.linkedin.com/in/michał-szóstak-480268189/) :blush:. Currently I'm full time backend developer and aspiring team manager / project leader.
+* I am [Michał Szóstak](https://www.linkedin.com/in/michał-szóstak-480268189/) :blush:. Currently I'm full time backend developer and aspiring team leader / project manager.
 
 * I am .NET Core developer with leadership and project management experience  :sparkles:.
 
-* I have done multiple projects ranging from the field of Backend, Cloud Computing and Automation, to Mobile Applications :file_cabinet: .
+* I have done multiple projects ranging from the field of Backend, Cloud Computing and Automation, to Mobile and Desktop Applications :file_cabinet: .
 
 * I am currently brushing up my skills and plan to get devops and azure developer associate certifications.
 
