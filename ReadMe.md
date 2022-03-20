@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Michał Szóstak](https://www.linkedin.com/in/michał-szóstak-480268189/) :blush:. Currently I'm full time backend developer and aspiring team leader / project manager.
+* My name is [Michał Szóstak](https://www.linkedin.com/in/michał-szóstak-480268189/) :blush:. Currently I'm full time backend developer and aspiring team leader / project manager.
 
 * I am .NET Core developer with leadership and project management experience  :sparkles:.
 
